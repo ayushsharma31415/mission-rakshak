@@ -1,0 +1,17 @@
+{
+    "name": "Admin Panel | Mission Rakshak",
+    "short_name": "Admin Panel",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0E35D5B",
+    "theme_color": "#0E35D5B",
+    "description": "Admin Panel for Mission Rakshak",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/icon.png",
+            "type": "image/png"
+        }
+    ]
+}
